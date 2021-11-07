@@ -1,3 +1,10 @@
+# INFO
+
+A clone of Whats-app using react for front-end. Hosting, database done through firebase. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
